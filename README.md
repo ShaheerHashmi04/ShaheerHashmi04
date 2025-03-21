@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @ShaheerHashmi04
-- 👀 I’m interested in ... Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... any code that anyone would be willing to teach me 
-- 📫 How to reach me ... email: sshaheerali2004@gmail.com
+Computer Science @ York University
+
+🌍  I’m based in Toronto, Ontario
+✉️  You can contact me at sshaheerali2004@gmail.com
+⚡  Currently I'm seeking internships and working on a few personal projects to improve my skills
+💻 In the future, I aim to be a quant developer, creating data-driven algorithms that impact financial decision-making
+➡️ Prev. Artificial Intelligence Intern @ Modern Requirements
 
 <!---
 ShaheerHashmi04/ShaheerHashmi04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
